@@ -1,2 +1,1 @@
-# Yoga-Interface-test
- Project test of Devclub
+- Project name is Yoga_2.0 (test GitHut)
